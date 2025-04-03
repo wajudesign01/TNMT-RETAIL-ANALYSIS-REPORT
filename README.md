@@ -20,7 +20,7 @@ I performed my data cleaning process and transformation using EXCEL
 - grouping datasets to improve usability
 
 # Exploratory Data Analysis
-EDA involved exploring Airline data to answer some key questions such as;
+EDA involved exploring TNMTRETAIL data to answer some key questions such as;
 - What are our top 3 sales team?
 - Which product category is performing well?
 - In what month was our highest revenue made?
